@@ -1,0 +1,44 @@
+{
+    "images": [
+        {
+            "title": "Lilium aureum",
+            "file": "dibujo1.jpg"
+        },
+        {
+            "title": "Flores bajo un cielo de ciruela",
+            "file": "dibujo10.jpg"
+        },
+        {
+            "title": "Girasol de verano",
+            "file": "dibujo2.jpg"
+        },
+        {
+            "title": "Tricolor en flores amarillas",
+            "file": "dibujo3.jpg"
+        },
+        {
+            "title": "Un Monigote obligado a dar flores",
+            "file": "dibujo4.jpg"
+        },
+        {
+            "title": "Repartición de flores amarillas",
+            "file": "dibujo5.jpg"
+        },
+        {
+            "title": "Un ramo para ti",
+            "file": "dibujo6.jpg"
+        },
+        {
+            "title": "Recuerdos dorados",
+            "file": "dibujo7.jpg"
+        },
+        {
+            "title": "El inicio",
+            "file": "dibujo8.jpg"
+        },
+        {
+            "title": "El centro de mi cielo",
+            "file": "dibujo9.jpg"
+        }
+    ]
+}
